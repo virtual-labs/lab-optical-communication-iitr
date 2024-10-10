@@ -50,7 +50,7 @@
             "name": "Measurement of losses in plastic fiber",
             "short-name": "measurement-losses-plastic-fiber",
             "repo": "https://github.com/virtual-labs/exp-measurement-of-losses-in-plastic-fiber-iitr",
-            "tag": "v1.0.0",
+            "tag": "v1.0.1",
             "deploy": true
         },
         {
